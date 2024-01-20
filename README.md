@@ -1,18 +1,3 @@
-<p align="center">
-<img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg"> <img align="center" src="http://ForTheBadge.com/images/badges/makes-people-smile.svg"> <img align="center" src="http://ForTheBadge.com/images/badges/built-by-developers.svg">
-</p>
-
-<h1 align="center">
-LaraBooks REST API
-</h1>
-
-<h5 align="center">
-REST API for Online Book Store with admin panel integration.
-</h5>
-
-</br>
-
-| [Admin Panel Features][] | [Requirements][] | [Install][] | [How to setting][] | [API Docs][] | [License][] |
 
 ## Admin Panel Features 
 - <img src="public/images/admin-panel.png" alt="Preview" width="60%"/>
